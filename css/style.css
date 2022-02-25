@@ -1,0 +1,5 @@
+.encabezado{
+	display: flex;
+	justify-content: center;
+	background-image: url("../assets/img/fondo.jpg");
+}
